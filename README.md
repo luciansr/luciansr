@@ -3,7 +3,7 @@
 I’m currently working at VTEX and learning a lot on how to work on a 24/7-always-on-highly-scalable-distributed-system platform. 🤓
 I love having the power to build solutions from the ground up using the most advanced technologies available to humankind (using AWS). 🚀
 
-Reach me out on **[LinkedIn](linkedin.com/in/luciansturiao)** or **luciansturiao@gmail.com** and ask me about anything related to tech, software engineering, back-end engineering, scalability, AWS. 
+**Reach me out** on **[LinkedIn](linkedin.com/in/luciansturiao)** or **luciansturiao@gmail.com** and ask me about anything related to tech, software engineering, back-end engineering, scalability, AWS. 
 It would be great to talk about those subjects 🌚  if it is not exactly that though, I am all ears 👁👃👁👂
 
 <!--
