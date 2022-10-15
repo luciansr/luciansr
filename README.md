@@ -4,6 +4,7 @@ I’m currently working at Meta (Facebook) and learning a lot on how to work on 
 I love having the power to build solutions from the ground up. 🚀
 
 **Reach me out** on **[LinkedIn](linkedin.com/in/luciansturiao)** or **luciansturiao@gmail.com**. 
+
 👁👃👁👂
 
 <!--
