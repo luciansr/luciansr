@@ -3,7 +3,8 @@
 I’m currently working at Meta (Facebook) and learning a lot on how to work on a 24/7-always-on-highly-scalable-distributed-system platform. 🤓
 I love having the power to build solutions from the ground up. 🚀
 
-**Reach me out** on **[LinkedIn](linkedin.com/in/luciansturiao)** or **luciansturiao@gmail.com** I am all ears 👁👃👁👂
+**Reach me out** on **[LinkedIn](linkedin.com/in/luciansturiao)** or **luciansturiao@gmail.com**. 
+👁👃👁👂
 
 <!--
 **luciansr/luciansr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
