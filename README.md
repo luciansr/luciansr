@@ -5,8 +5,6 @@ I love having the power to build solutions from the ground up. 🚀
 
 **Reach me out** on **[LinkedIn](linkedin.com/in/luciansturiao)** or **luciansturiao@gmail.com**. 
 
-👁👃👁👂
-
 <!--
 **luciansr/luciansr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
